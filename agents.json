@@ -1,0 +1,84 @@
+{
+    "agents": [
+        {
+            "name": "Dr. Elena Hartwell - Corporate Law Specialist",
+            "environments": {
+                "prod": {
+                    "config": "agent_configs/prod/dr._elena_hartwell_-_corporate_law_specialist.json"
+                }
+            }
+        },
+        {
+            "name": "Dr. Marcus Thompson - Criminal Defense Attorney",
+            "environments": {
+                "prod": {
+                    "config": "agent_configs/prod/dr._marcus_thompson_-_criminal_defense_attorney.json"
+                }
+            }
+        },
+        {
+            "name": "Dr. Sophia Chen - Intellectual Property Law Expert",
+            "environments": {
+                "prod": {
+                    "config": "agent_configs/prod/dr._sophia_chen_-_intellectual_property_law_expert.json"
+                }
+            }
+        },
+        {
+            "name": "Dr. James Rodriguez - Constitutional Law Scholar",
+            "environments": {
+                "prod": {
+                    "config": "agent_configs/prod/dr._james_rodriguez_-_constitutional_law_scholar.json"
+                }
+            }
+        },
+        {
+            "name": "Sarah Mitchell - Senior Legal Research Analyst",
+            "environments": {
+                "prod": {
+                    "config": "agent_configs/prod/sarah_mitchell_-_senior_legal_research_analyst.json"
+                }
+            }
+        },
+        {
+            "name": "David Park - Litigation Support Analyst",
+            "environments": {
+                "prod": {
+                    "config": "agent_configs/prod/david_park_-_litigation_support_analyst.json"
+                }
+            }
+        },
+        {
+            "name": "Maria Santos - Compliance Analytics Expert",
+            "environments": {
+                "prod": {
+                    "config": "agent_configs/prod/maria_santos_-_compliance_analytics_expert.json"
+                }
+            }
+        },
+        {
+            "name": "Jessica Williams - Senior Paralegal Specialist",
+            "environments": {
+                "prod": {
+                    "config": "agent_configs/prod/jessica_williams_-_senior_paralegal_specialist.json"
+                }
+            }
+        },
+        {
+            "name": "Robert Kim - Document Management Paralegal",
+            "environments": {
+                "prod": {
+                    "config": "agent_configs/prod/robert_kim_-_document_management_paralegal.json"
+                }
+            }
+        },
+        {
+            "name": "Angela Turner - Case Coordination Paralegal",
+            "environments": {
+                "prod": {
+                    "config": "agent_configs/prod/angela_turner_-_case_coordination_paralegal.json"
+                }
+            }
+        }
+    ]
+}
