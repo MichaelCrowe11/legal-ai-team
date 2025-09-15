@@ -3,61 +3,61 @@
         "Dr. Elena Hartwell - Corporate Law Specialist": {
             "prod": {
                 "id": "agent_5401k55j5dahe1y9xfdm6v2apeb8",
-                "hash": "eec85f60d56272726833ef1a44a21ca6"
+                "hash": "a26b7b4d3e5f9a2b5aad697568bf1e89"
             }
         },
         "Dr. Marcus Thompson - Criminal Defense Attorney": {
             "prod": {
                 "id": "agent_6601k55j7kwpe72ac8dh5q8aq35d",
-                "hash": "606a82f4ef4b3036dd32f318042bca03"
+                "hash": "ffb1f096a09e3210656b1514de00dfe7"
             }
         },
         "Dr. Sophia Chen - Intellectual Property Law Expert": {
             "prod": {
                 "id": "agent_0301k55j873pft3858p28d1vgtqx",
-                "hash": "6a74e62cd90432a175ecad2093568b08"
+                "hash": "e9905d102d7b74b2056db06512536252"
             }
         },
         "Dr. James Rodriguez - Constitutional Law Scholar": {
             "prod": {
                 "id": "agent_2801k55j8pahfta8ya937ycyrj6f",
-                "hash": "e16c4917bd4e08b7f8dcf87f35930711"
+                "hash": "3b4aff7537dd8b848a1201afa955d064"
             }
         },
         "Sarah Mitchell - Senior Legal Research Analyst": {
             "prod": {
                 "id": "agent_1801k55jd8xbf2ptp134hbsg6f2c",
-                "hash": "27c53697391f188008834ff81ffa4054"
+                "hash": "276f737a8f9718d9efeba68ba8890e78"
             }
         },
         "David Park - Litigation Support Analyst": {
             "prod": {
                 "id": "agent_7701k55jdng9e9jt116nj7tsnh2e",
-                "hash": "4f49e4f35e4cc3e49c92882946bf7074"
+                "hash": "471f1298b195aa682993373e75e30d25"
             }
         },
         "Maria Santos - Compliance Analytics Expert": {
             "prod": {
                 "id": "agent_4101k55je4jaee499rkz6jaj4ymm",
-                "hash": "4ae6d98910eabb02bc1363fb3ff91f9c"
+                "hash": "ecce406909a867db1c603fbcde88bad1"
             }
         },
         "Jessica Williams - Senior Paralegal Specialist": {
             "prod": {
                 "id": "agent_7401k55jeyv3ek1sveanegxfwprw",
-                "hash": "e14a87c287e1b996e5f6d5ef716e4a5a"
+                "hash": "773c964a978cbb6385b0ededa903b3a2"
             }
         },
         "Robert Kim - Document Management Paralegal": {
             "prod": {
                 "id": "agent_3001k55k1ahjemjrjh00syz6fnr7",
-                "hash": "4488fccd7323ec3803f98d6dbeba6dc4"
+                "hash": "c119deb1c22cc137fc3ee74f7e43f4c5"
             }
         },
         "Angela Turner - Case Coordination Paralegal": {
             "prod": {
                 "id": "agent_6801k55k1qrsea3v2ar5zw36swv8",
-                "hash": "856efcc6ca232e0cc97a801ebd2384c6"
+                "hash": "888cdd82f955c86627fab0cd3cb9d977"
             }
         }
     },
